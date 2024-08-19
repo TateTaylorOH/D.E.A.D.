@@ -1,0 +1,4 @@
+{
+   "resistance": {"r&w":["pierce","frost","immune_poison"],"kye2":[],"req":[],"vanilla":["immune_poison","frost"]},
+   "weakness": {"r&w":["slash","silver"],"kye2":[],"req":[],"vanilla":[]}
+    }
